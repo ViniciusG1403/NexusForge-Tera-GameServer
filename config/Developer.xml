@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<!-- just for development, debug, logging -->
+
+	<!-- log client packets info -->
+	<set name="DEVELOPER_DEBUG_CLIENT_PACKETS" value="false" />
+	<!-- log server packets info -->
+	<set name="DEVELOPER_DEBUG_SERVER_PACKETS" value="false" />
+	<!-- log general info -->
+	<set name="DEVELOPER_MAIN_DEBUG" value="false" />
+	<!-- log target type info -->
+	<set name="DEVELOPER_DEBUG_TARGET_TYPE" value="false" />
+	
+	<!-- log skill debug info -->
+	<set name="DEVELOPER_DEBUG_CASTING_SKILL" value="false" />
+	<!-- log player position info -->
+	<set name="DEVELOPER_DEBUG_MOVING_PLAYER" value="false" />
+	<!-- log npc postition info -->
+	<set name="DEVELOPER_DEBUG_MOVING_NPC" value="false" />
+	<!-- log player movement info-->
+	<set name="DEVELOPER_GEO_LOGING" value="false" />
+	
+	<!-- enable forced attack speed for all players (0 - disabled) -->
+	<set name="DEVELOPER_FORCE_ATTACK_SPEED" value="0" />
+</list>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<!-- GEO Map half size of X Coords (4000) -->
+	<set name="GEO_ENGINE_OFFSET_X" value="4000" />
+	<!-- GEO Map half size of Y Coords (4000) -->
+	<set name="GEO_ENGINE_OFFSET_Y" value="4000" />
+	<!-- GEO Map size of GEO square (64) -->
+	<set name="GEO_ENGINE_QUARD_SIZE" value="64" />
+	<!-- GEO Map heiught of GEO square (300) -->
+	<set name="GEO_ENGINE_QUARD_HEIGHT" value="300" />
+</list>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<!-- enable remote management distance conrol -->
+	<set name="DIST_CONTROL_ENABLED" value="true" />
+	
+	<!-- remote management distance control port -->
+	<set name="DIST_CONTROL_PORT" value="2101" />
+	
+	<!-- interval for checking remote client connections (higher= less loads) -->
+	<set name="DIST_CONTROL_CLIENT_INTERVAL" value="1000" />
+	
+	<!-- remote management login -->
+	<set name="DIST_CONTROL_LOGIN" value="root" />
+	<!-- remote management password -->
+	<set name="DIST_CONTROL_PASSWORD" value="159753000aA" />
+</list>    

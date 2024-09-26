@@ -1,0 +1,271 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<!-- bruxo do tanque vagando -->
+	<package name="thrall_of_protection_walk" >
+		<msg text="Estou sem nada para fazer..." />
+		<msg text="Isso está ficando chato..." />
+		<msg text="Pãm pãram pãm pãm..." />
+		<msg text="Onde eu consigo uma arma melhor...?" />
+		<msg text="Ai, como tudo está entediante..." />
+		<msg text="Quanto tempo ainda vou ficar aqui..." />
+		<msg text="O mestre é meio chato..." />
+		<msg text="O que estamos esperando?" />
+		<msg text="Estamos indo ou não?..." />
+	</package>
+
+	<!-- bruxo do tanque seguindo o mestre -->
+	<package name="thrall_of_protection_follow" >
+		<msg text="Espero que estamos indo caçar..." />
+		<msg text="Ei, me espera!" />
+		<msg text="Pra onde você está indo!?" />
+		<msg text="Por que você está tão apressado?" />
+		<msg text="Me espera!" />
+		<msg text="Finalmente estamos nos movendo" />
+		<msg text="Pra onde estamos indo?" />
+		<msg text="Essa corrida interminável está me cansando!" />
+	</package>
+
+	<!-- bruxo do tanque voltando para o mestre -->
+	<package name="thrall_of_protection_return" >
+		<msg text="Parece que perdi o mestre" />
+		<msg text="Parece que me desviei do mestre" />
+		<msg text="Preciso voltar para o mestre" />
+		<msg text="Estou indo, na verdade" />
+		<msg text="Correndo!" />
+	</package>
+
+	<!-- bruxo do tanque dando buff -->
+	<package name="thrall_of_protection_buff" >
+		<msg text="Buff buff buff!" />
+		<msg text="Aqui está o buff!" />
+		<msg text="Buff!" />
+		<msg text="Melhor assim?" />
+		<msg text="Espero que isso nos ajude a vencer!" />
+	</package>
+
+	<!-- bruxo do tanque dando debuff -->
+	<package name="thrall_of_protection_debuff" >
+		<msg text="Debuff para você!" />
+		<msg text="E um debuff para você!" />
+		<msg text="Aqui está seu debuff!" />
+		<msg text="Ha-ha, você é fraco!" />
+		<msg text="Te amaldiçoo!" />
+	</package>
+
+	<!-- bruxo do tanque bloqueando algo -->
+	<package name="thrall_of_protection_shield" >
+		<msg text="Meu escudo é intransponível!" />
+		<msg text="Impressionante!?" />
+		<msg text="Surpresa!?" />
+		<msg text="Não vai me atingir!" />
+		<msg text="Minha armadura é forte!" />
+		<msg text="O que você pode fazer?!" />
+		<msg text="Isso é tudo que você pode fazer?!" />
+		<msg text="Meu escudo me protegerá do mal!" />
+	</package>
+
+	<!-- bruxo do tanque atacando -->
+	<package name="thrall_of_protection_attack" >
+		<msg text="Toma!" />
+		<msg text="Agora vou te mostrar onde os peixes hibernam!" />
+		<msg text="Experimente minha força!" />
+		<msg text="Meu golpe vai te derrubar!" />
+		<msg text="Golpe CHAKANORIS!" />
+		<msg text="Agora vou te quebrar!" />
+		<msg text="Aqui está meu presente!" />
+		<msg text="Você vai se arrepender!" />
+		<msg text="Morra!" />
+		<msg text="Vou te mostrar o verdadeiro poder!" />
+		<msg text="Você não vai escapar!" />
+		<msg text="Você não pode se esconder!" />
+		<msg text="Saia do caminho do mestre!" />
+	</package>
+	
+	<!-- bruxo do mago vagando -->
+	<package name="thrall_of_vengeance_walk" >
+		<msg text="Estou sem nada para fazer..." />
+		<msg text="Isso está ficando chato..." />
+		<msg text="Pãm pãram pãm pãm..." />
+		<msg text="Onde eu consigo uma arma melhor...?" />
+		<msg text="Ai, como tudo está entediante..." />
+		<msg text="Quanto tempo ainda vou ficar aqui..." />
+		<msg text="O mestre é meio chato..." />
+		<msg text="O que estamos esperando?" />
+		<msg text="Estamos indo ou não?..." />
+	</package>
+
+	<!-- bruxo do mago seguindo o mestre -->
+	<package name="thrall_of_vengeance_follow" >
+		<msg text="Espero que estamos indo caçar..." />
+		<msg text="Ei, me espera!" />
+		<msg text="Pra onde você está indo!?" />
+		<msg text="Por que você está tão apressado?" />
+		<msg text="Me espera!" />
+		<msg text="Finalmente estamos nos movendo" />
+		<msg text="Pra onde estamos indo?" />
+		<msg text="Essa corrida interminável está me cansando!" />
+	</package>
+
+	<!-- bruxo do mago voltando para o mestre -->
+	<package name="thrall_of_vengeance_return" >
+		<msg text="Parece que perdi o mestre" />
+		<msg text="Parece que me desviei do mestre" />
+		<msg text="Preciso voltar para o mestre" />
+		<msg text="Estou indo, na verdade" />
+		<msg text="Correndo!" />
+	</package>
+
+	<!-- bruxo do mago dando buff -->
+	<package name="thrall_of_vengeance_buff" >
+		<msg text="Buff buff buff!" />
+		<msg text="Aqui está o buff!" />
+		<msg text="Buff!" />
+		<msg text="Melhor assim?" />
+		<msg text="Espero que isso nos ajude a vencer!" />
+	</package>
+
+	<!-- bruxo do mago atacando -->
+	<package name="thrall_of_vengeance_attack" >
+		<msg text="Toma!" />
+		<msg text="Agora vou te mostrar onde os peixes hibernam!" />
+		<msg text="Experimente minha força!" />
+		<msg text="Meu golpe vai te derrubar!" />
+		<msg text="Golpe CHAKANORIS!" />
+		<msg text="Agora vou te quebrar!" />
+		<msg text="Aqui está meu presente!" />
+		<msg text="Você vai se arrepender!" />
+		<msg text="Morra!" />
+		<msg text="Vou te mostrar o verdadeiro poder!" />
+		<msg text="Você não vai escapar!" />
+		<msg text="Você não pode se esconder!" />
+		<msg text="Saia do caminho do mestre!" />
+	</package>
+	
+	<!-- bruxo do assassino vagando -->
+	<package name="thrall_of_wrath_walk" >
+		<msg text="Estou sem nada para fazer..." />
+		<msg text="Isso está ficando chato..." />
+		<msg text="Pãm pãram pãm pãm..." />
+		<msg text="Onde eu consigo uma arma melhor...?" />
+		<msg text="Ai, como tudo está entediante..." />
+		<msg text="Quanto tempo ainda vou ficar aqui..." />
+		<msg text="O mestre é meio chato..." />
+		<msg text="O que estamos esperando?" />
+		<msg text="Estamos indo ou não?..." />
+	</package>
+
+	<!-- bruxo do assassino seguindo o mestre -->
+	<package name="thrall_of_wrath_follow" >
+		<msg text="Espero que estamos indo caçar..." />
+		<msg text="Ei, me espera!" />
+		<msg text="Pra onde você está indo!?" />
+		<msg text="Por que você está tão apressado?" />
+		<msg text="Me espera!" />
+		<msg text="Finalmente estamos nos movendo" />
+		<msg text="Pra onde estamos indo?" />
+		<msg text="Essa corrida interminável está me cansando!" />
+	</package>
+	
+	<!-- bruxo do assassino voltando para o mestre -->
+	<package name="thrall_of_wrath_return" >
+		<msg text="Parece que perdi o mestre" />
+		<msg text="Parece que me desviei do mestre" />
+		<msg text="Preciso voltar para o mestre" />
+		<msg text="Estou indo, na verdade" />
+		<msg text="Correndo!" />
+	</package>
+	
+	<!-- bruxo do assassino dando buff -->
+	<package name="thrall_of_wrath_buff" >
+		<msg text="Buff!" />
+	</package>
+	
+	<!-- bruxo do assassino atacando -->
+	<package name="thrall_of_wrath_attack" >
+		<msg text="Toma!" />
+		<msg text="Agora vou te mostrar onde os peixes hibernam!" />
+		<msg text="Experimente minha força!" />
+		<msg text="Meu golpe vai te derrubar!" />
+		<msg text="Golpe CHAKANORIS!" />
+		<msg text="Agora vou te quebrar!" />
+		<msg text="Aqui está meu presente!" />
+		<msg text="Você vai se arrepender!" />
+		<msg text="Morra!" />
+		<msg text="Vou te mostrar o verdadeiro poder!" />
+		<msg text="Você não vai escapar!" />
+		<msg text="Você não pode se esconder!" />
+		<msg text="Saia do caminho do mestre!" />
+	</package>
+	
+	<!-- bruxo do assassino esquivando -->
+	<package name="thrall_of_wrath_evasion" >
+		<msg text="Você não vai me acertar!" />
+		<msg text="Esquiva!" />
+		<msg text="Sou um ninja!" />
+		<msg text="Opa!" />
+		<msg text="Hup!" />
+	</package>
+	
+	<!-- bruxo do curador vagando -->
+	<package name="thrall_of_life_walk" >
+		<msg text="Diga quando precisar de um conserto ;)" />
+		<msg text="Não se preocupe na batalha, eu sempre vou te curar!" />
+		<msg text="Pronto para curar os amigos!" />
+		<msg text="Quem eu posso curar!?" />
+		<msg text="Preciso curar alguém..." />
+		<msg text="Meu bastão está cansado de não fazer nada..." />
+		<msg text="Estou sem nada para fazer..." />
+		<msg text="Isso está ficando chato..." />
+		<msg text="Pãm pãram pãm pãm..." />
+		<msg text="Ai, como tudo está entediante..." />
+		<msg text="Quanto tempo ainda vou ficar aqui..." />
+		<msg text="O mestre é meio chato..." />
+		<msg text="O que estamos esperando?" />
+		<msg text="Estamos indo ou não?..." />
+	</package>
+
+	<!-- bruxo do curador seguindo o mestre -->
+	<package name="thrall_of_life_follow" >
+		<msg text="Pra onde estamos indo com o porquinho, um grande grande segredo!" />
+		<msg text="Finalmente estamos indo para algum lugar!" />
+		<msg text="Pãm pãram pãm" />
+	</package>
+	
+	<!-- bruxo do curador voltando para o mestre -->
+	<package name="thrall_of_life_return" >
+		<msg text="Como ele pensou que conseguiria lutar sem mim!?" />
+		<msg text="Preciso me apressar para o mestre..." />
+		<msg text="Estou indo, na verdade..." />
+		<msg text="Correndo!" />
+	</package>
+	
+	<!-- bruxo do curador dando buff -->
+	<package name="thrall_of_life_buff" >
+		<msg text="Aqui está o buff!" />
+		<msg text="Vamos dar um aumento!" />
+		<msg text="Aumentar todos!" />
+		<msg text="AUMENTO!" />
+	</package>
+	
+	<!-- bruxo do curador curando -->
+	<package name="thrall_of_life_heal" >
+		<msg text="Cura!" />
+		<msg text="Mestre da cura!" />
+		<msg text="Poder da cura!" />
+		<msg text="Que a cura venha!" />
+	</package>
+	
+	<!-- bruxo do curador atacando -->
+	<package name="thrall_of_life_attack" >
+		<msg text="Pegue meu presentinho!" />
+		<msg text="Aqui está um presentinho!" />
+		<msg text="Raios de bondade!" />
+	</package>
+	
+	<!-- bruxo do curador esquivando -->
+	<package name="thrall_of_life_evasion" >
+		<msg text="Você não vai me pegar!" />
+		<msg text="Esquiva!" />
+		<msg text="Sou o Batman!" />
+	</package>
+</list>

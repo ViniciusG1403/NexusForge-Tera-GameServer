@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<!-- quando o mob foca pela primeira vez no alvo -->
+	<package name="DefaultNoticeMessages" >
+		<msg text="Não se aproxime!" />
+		<msg text="Sai fora, estou AFK!" />
+		<msg text="Não me toque!" />
+		<msg text="Por que você é tão grande e assustador?" />
+		<msg text="Não, não, não, não, não! Sai, não consigo com você!" />
+		<msg text="O que você quer de mim!?" />
+		<msg text="Você não me agrada..." />
+		<msg text="Com uma arma assim, eu também posso vencer qualquer um..." />
+		<msg text="Estou ocupado!" />
+		<msg text="*fui pego de surpresa*" />
+
+		<msg text="Por que você é tão pequeno e fraco?" />
+		<msg text="Vê o meu punho? Não? Então chega mais perto!" />
+		<msg text="Vou te enrolar no meu rabo!" />
+		<msg text="Quem é você?" />
+		<msg text="Vai apanhar?" />
+		<msg text="Não te vi aqui antes..." />
+		<msg text="Tem semente? E 5 reais? Tem? E um telefonema?" />
+		<msg text="Aqui não é lugar para novatos! Sai fora!" />
+		<msg text="Estou curioso, qual será o seu loot?" />
+	</package>
+	
+	<!-- quando o mob se vira para focar no alvo -->
+	<package name="DefaultUpdateNoticeMessages" >
+		<msg text="Você está tentando me enganar!?" />
+		<msg text="Não vou deixar você me assustar!" />
+		<msg text="Você acha que sou burro!?" />
+		<msg text="Para onde você vai!?" />
+		<msg text="Você acha que estou brincando com você!?" />
+		<msg text="Sua tentativa de me matar é insignificante!" />
+		<msg text="Por que você está fazendo isso? Não pode me matar!" />
+		<msg text="Agora você vai se arrepender!" />
+		<msg text="Estava te esperando há muito tempo!" />
+		<msg text="E como você é saboroso?" />
+		<msg text="Vou juntar todos e vamos te exterminar." />
+		<msg text="Hoje você será meu café da manhã." />
+		<msg text="Vocês são criaturas insignificantes..." />
+		<msg text="Por que... " />
+		<msg text="Sinta a força da minha ira!" />
+		<msg text="Pensou que ia me atacar pelas costas? Que feio..." />
+		<msg text="Você acha que sou fraco!?" />
+		<msg text="Não... Não quero morrer..." />
+		<msg text="Você está me deixando nervoso..." />
+		<msg text="Ainda vamos nos ver, eu não sou o último..." />
+		<msg text="E isso é tudo que você é capaz!??" />
+	</package>
+	
+	<!-- quando o mob está vagando -->
+	<package name="DefaultWalkMessages" >
+		<msg text="Está meio chato aqui..." />
+		<msg text="Para onde todo mundo foi?" />
+		<msg text="Que dia bonito!" />
+		<msg text="Parece que todo mundo me ignora?" />
+	</package>
+	
+	<package name="DefaultSwitchTargetMessages" >
+		<msg text="Agora você vai se dar mal!" />
+		<msg text="Vem aqui!" />
+		<msg text="Como você se atreve a aparecer na minha frente!?" />
+		<msg text="Sua vez chegou!" />
+	</package>
+	
+	<package name="DefaultJumpSideMessages" >
+		<msg text="Você não vai acertar!" />
+	</package>
+	
+	<package name="DefaultJumpBehindMessages" >
+		<msg text="Vamos nos afastar!" />
+	</package>
+	
+	<package name="DefaultShortAttackMessages" >
+		<msg text="Agora você vai levar!" />
+	</package>
+	
+	<package name="DefaultLongAttackMessages" >
+		<msg text="Receba!" />
+	</package>
+	
+	<package name="DefaultRunAwayMessages" >
+		<msg text="Vamos embora, eles estão usando cheats!" />
+		<msg text="Sai fora!" />
+		<msg text="Opa, esqueci de desligar o fogão em casa." />
+		<msg text="SOS! SOS!" />
+		<msg text="Alguém, chama o Greenpeace!!" />
+		<msg text="Polícia!" />
+		<msg text="Meu loot! Não vou entregar!!" />
+		<msg text="Pega-me se conseguir!" />
+		<msg text="Opa, parece que meu estômago está ruim." />
+		<msg text="Parece que minha cabeça está doendo." />
+		<msg text="Vou subir de nível e vou te bater!" />
+		<msg text="Preciso de um heal! HEAL!!" />
+		<msg text="Não jogo assim." />
+		<msg text="Dessa vez eles não me pegam." />
+		<msg text="Vou rapidinho comprar um cigarro na esquina e já volto." />
+		<msg text="Galera, me ajudem!" />
+		<msg text="Você vai me matar agora!" />
+		<msg text="Vamos jogar de pega-pega." />
+		<msg text="Você é louco!" />
+		<msg text="Vou destruir sua casa!!" />
+		<msg text="Que coisa! Você é muito nojento." />
+		<msg text="Estou cansado. Estou indo embora." />
+		<msg text="Vamos dar uma volta?" />
+		<msg text="Ei, sai fora, tá bom?" />
+		<msg text="Você quer ouro? Não, você que se ferre!" />
+		<msg text="Nós não vamos ser pegos! Nós não vamos ser pegos!" />
+		<msg text="Não quero morrer virgem!" />
+		<msg text="Nãããão!" />
+		<msg text="MAMÃE!" />
+		<msg text="Disseram que aqui os jogadores lagam. De novo, mentira." />
+		<msg text="Não, não, não, não!" />
+	</package>
+</list>

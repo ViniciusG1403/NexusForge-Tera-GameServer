@@ -1,0 +1,7 @@
+--kill_me - comando para sair da geodata;
+--version - versão atual do servidor;
+--online - número atual de jogadores online no servidor;
+--restore_skills - restaura as habilidades básicas, removendo todas as habilidades atuais;
+--end_pay - tempo de término da assinatura do Passe VIP;
+--time - hora atual no servidor;
+--restore_characters - restaura o acesso aos personagens presos na conta;

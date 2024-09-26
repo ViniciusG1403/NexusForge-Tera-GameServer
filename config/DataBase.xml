@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<!-- mysql database driver (com.mysql.jdbc.Driver) -->
+	<set name="DATA_BASE_DRIVER" value="com.mysql.jdbc.Driver" />
+	<!-- mysql database url (jdbc:mysql://localhost/stdb) -->
+	<set name="DATA_BASE_URL" value="jdbc:mysql://localhost/tera_shock" />
+	
+	<!-- mysql db login (root) -->
+	<set name="DATA_BASE_LOGIN" value="root" />
+	<!-- mysql db pass (000000) -->
+	<set name="DATA_BASE_PASSWORD" value="" />
+	
+	<!-- max. mysql db connections (10) -->
+	<set name="DATA_BASE_MAX_CONNECTIONS" value="10" />
+	<!-- max mysql db statements (1000) -->
+	<set name="DATA_BASE_MAX_STATEMENTS" value="1000" />
+	<!-- enable mysql db cleanup on server start (true) -->
+	<set name="DATA_BASE_CLEANING_START" value="true" />
+</list>    

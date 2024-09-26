@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<!-- min access level to enter server (0) -->
+	<set name="ACCOUNT_MIN_ACCESS_LEVEL" value="0" />
+	
+	<!-- premium user exp rate (2.0) -->
+	<set name="ACCOUNT_PREMIUM_EXP_RATE" value="2.0" />
+	<!-- premium user money rate (2.0) -->
+	<set name="ACCOUNT_PREMIUM_MONEY_RATE" value="2.0" />
+	<!-- premium user item drop rate (2.0)-->
+	<set name="ACCOUNT_PREMIUM_DROP_RATE" value="2.0" />
+
+	<!-- premium user quest rate (2.0)-->
+	<set name="ACCOUNT_PREMIUM_QUEST_RATE" value="2.0" />	
+	<set name="ACCOUNT_PREMIUM_QUEST" value="true" />
+	
+	
+	<!-- enable account auto creation on login (true) -->
+	<set name="ACCOUNT_AUTO_CREATE" value="true" />
+	<!-- enable only premium user login to enter server (false) -->
+	<set name="ACCOUNT_ONLY_PAID" value="false" />
+	
+	<!-- enable premium user bonus exp feature (true) -->
+	<set name="ACCOUNT_PREMIUM_EXP" value="true" />
+	<!-- enable premium user bonus money feature (true) -->
+	<set name="ACCOUNT_PREMIUM_MONEY" value="true" />
+	<!-- enable premium user bonus item drop feature (true)  -->
+	<set name="ACCOUNT_PREMIUM_DROP" value="true" />
+</list>

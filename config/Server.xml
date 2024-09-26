@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<!-- gameserver port(11101) -->
+	<set name="SERVER_PORT" value="11101" />
+
+	<!-- player name template (allowed chars) -->
+	<set name="SERVER_NAME_TEMPLATE" value="([0-9A-Za-z]{2,16})|([0-9\u0410-\u044f]{2,16})|([0-9А-Яа-я]{2,16})" />
+	
+	<!-- exp rate (1.0) -->
+	<set name="SERVER_RATE_EXP" value="10.0" />
+	<!-- group exp rate (1.1) -->
+	<set name="SERVER_PARTY_RATE_EXP" value="10" />
+	<!-- money rate (1.0) -->
+	<set name="SERVER_RATE_MONEY" value="1.0" />
+	<!-- item drop rate (1.0) -->
+	<set name="SERVER_RATE_DROP_ITEM" value="1.0" />
+	<!-- quest reward rate (1.0) -->
+	<set name="SERVER_RATE_QUEST_REWARD" value="2.0" />
+	
+	<!-- use packet sniffer opcodes (false) -->
+	<set name="SERVER_USE_SNIFFER_OPCODE" value="true" />
+	<!-- enable random item drop rate (false) -->
+	<set name="SERVER_DROP_REAL_RANDOM" value="true" />
+	<!-- enable random rates (skill crit) (false) -->
+	<set name="SERVER_CRIT_REAL_RANDOM" value="false" />
+	<!-- enable random rate (effect) (false) -->
+	<set name="SERVER_EFFECT_REAL_RANDOM" value="false" />
+	<!-- enable random rate (functions) (false) -->
+	<set name="SERVER_FUNC_REAL_RANDOM" value="false" />
+	<!-- enable random rate (damage) (false) -->
+	<set name="SERVER_DAMAGE_REAL_RANDOM" value="false" />
+	<!-- enable random rate (overturn) (false) -->
+	<set name="SERVER_OWERTURN_REAL_RANDOM" value="false" />
+	
+    <!-- enable fake server online (1.0) -->
+	<set name="SERVER_ONLINE_FAKE" value="3.15" />
+	<!-- fake server online file: ./home/brabusx/online/online.txt -->
+	<set name="SERVER_ONLINE_FILE" value="online.php" />
+	
+	
+	<!-- player sub ids (1000) -->
+	<set name="SERVER_PLAYER_SUB_ID" value="1000" />
+	<!-- npc sub ids (2000) -->
+	<set name="SERVER_NPC_SUB_ID" value="2000" />
+	<!-- item sub ids (3000) -->
+	<set name="SERVER_ITEM_SUB_ID" value="3000" />
+	<!-- shot sub ids (4000) -->
+	<set name="SERVER_SHOT_SUB_ID" value="4000" />
+	<!-- object sub ids (5000) -->
+	<set name="SERVER_OBJECT_SUB_ID" value="5000" />
+	<!-- trap sub ids (6000) -->
+	<set name="SERVER_TRAP_SUB_ID" value="6000" />
+	<!-- resource sub ids (7000) -->
+	<set name="SERVER_RESOURSE_SUB_ID" value="7000" />
+</list>    

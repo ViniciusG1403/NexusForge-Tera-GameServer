@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<!-- max. mob AI reaction radius -->
+	<set name="AI_MAX_ACTIVE_RANGE" value="2000" />
+	
+	<!-- max. mob AI response radius -->
+	<set name="AI_MAX_REACTION_RANGE" value="1500" />
+	
+	<!-- min. mob AI walk range from spawn point-->
+	<set name="AI_MIN_RANDOM_WALK_RANGE" value="60" />
+	
+	<!-- max. mob AI walk range from spawn point-->
+	<set name="AI_MAX_RANDOM_WALK_RANGE" value="120" />
+	
+	<!-- min. mob AI walk delay (max 32000) -->
+	<set name="AI_MIN_RANDOM_WALK_DELAY" value="900000" />
+	
+	<!-- max. mob AI walk delay (max 32000) -->
+	<set name="AI_MAX_RANDOM_WALK_DELAY" value="180000" />
+	
+	<!-- mob AI task execution interval delay (less= faster, higher= slower mob reactions.) -->
+	<set name="AI_TASK_DELAY" value="200" />
+	
+	<!-- mob AI random target attack point chances -->
+	<set name="AI_RANDOM_POINT_ON_CAST" value="60" />
+	
+	<!-- skill use chances -->
+	<set name="AI_ATTACK_RATE" value="50" />
+	<set name="AI_BUFF_RATE" value="5" />
+	<set name="AI_DEBUFF_RATE" value="25" />
+	<set name="AI_DEFENSE_RATE" value="20" />
+	<set name="AI_JUMP_RATE" value="50" />
+	<set name="AI_SIDE_RATE" value="25" />
+	<set name="AI_ULTIMATE_RATE" value="20" />
+</list>    

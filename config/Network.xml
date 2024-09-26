@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<!-- async thread size-->
+	<set name="NETWORK_GROUP_SIZE" value="5" />
+	<!-- async thread priority -->
+	<set name="NETWORK_THREAD_PRIORITY" value="5" />
+	<!-- async thread read buffer size -->
+	<set name="NETWORK_READ_BUFFER_SIZE" value="16384" />
+	<!-- async thread write buffer size -->
+	<set name="NETWORK_WRITE_BUFFER_SIZE" value="262144" />
+    <!-- max. async thread cut packets (lost packets?) (10) -->
+	<set name="NETWORK_MAXIMUM_PACKET_CUT" value="10" />
+	
+	<!-- async thread show visible read exceptions -->
+	<set name="NETWORK_VISIBLE_READ_EXCEPTION" value="false" />
+	<!-- async thread show visible write exceptions -->
+	<set name="NETWORK_VISIBLE_WRITE_EXCEPTION" value="false" />
+</list>
